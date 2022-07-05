@@ -6,7 +6,7 @@ export default function Home( {posts} ){
 
   return(
     <div>
-      <div class="note">
+      <div className="note">
         <h2>Headless WordPress with NEXTJS & WPGRAPHQL</h2>
         <ul>
           <li>Step 1: Create a next js project using command:  npx create-next-app </li>
