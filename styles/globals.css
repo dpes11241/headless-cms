@@ -1,3 +1,5 @@
+
+
 html,
 body {
   padding: 0;
@@ -15951,4 +15953,11 @@ span.typed {
 
 #primary-menu a:hover{
   cursor: pointer;
+}
+.widget ul li a {
+    color: #fff;
+}
+
+.upperFooter ul {
+    padding-left: 0;
 }
