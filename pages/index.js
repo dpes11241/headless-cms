@@ -12,7 +12,7 @@ export default function Home( {posts} ){
           <li>Step 1: Create a next js project using command:  npx create-next-app </li>
           <li>Step 2: Switch to the project folder</li>
           <li>Step 3: Crete a simple post query using GraphQL plugin</li>
-          <li>Step 4: Update fetch URl in line 36 of index.js</li>
+          <li>Step 4: Update fetch URl generated from graphql in line 36 of index.js</li>
           <li>Step 5: Run: yarn dev</li>
         </ul>
 
